@@ -1,3 +1,7 @@
 Aqui é um exemplo
-TESTE
+ALTERAcao PALAVRAS
+h - esquerda
+j - baixo
+k - cima
+l - direita
 Menos um linha
